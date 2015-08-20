@@ -1,0 +1,138 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="skins/Tree1" itemID="4ef3d7f6-00000247" sourceLibraryItemHRef="Symbol 1" lastModified="1326242622" lastUniqueIdentifier="10">
+  <timeline>
+    <DOMTimeline name="Tree1">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/bush1" name="" centerPoint3DX="123.55" centerPoint3DY="207.1">
+                  <matrix>
+                    <Matrix a="1.32571411132813" b="-0.0567474365234375" c="0.266952514648438" d="1.75480651855469" tx="10.6" ty="102.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="72.65" y="62.1"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="0.67" tintColor="#30410E"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMGroup>
+                  <members>
+                    <DOMShape isDrawingObject="true">
+                      <matrix>
+                        <Matrix a="0.99908447265625" b="-0.0427703857421875" c="0.0427703857421875" d="0.99908447265625" tx="-48.35" ty="130.65"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#3F2D0B"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!3958 1501[3919 1744 4044 2218!4044 2218[4382 1883 4766 1852!4766 1852|4817 1977!4817 1977[4465 2034 4101 2491!4101 2491[3950 3649 3828 4050!3828 4050[4027 4337 4541 3822!4541 3822[4317 3398 5040 2717!5040 2717[5134 2864 5277 2831!5277
+ 2831[4496 3402 4777 3713!4777 3713[4960 3943 4751 4060!4751 4060[4288 4486 3914 4744!3914 4744[3815 6238 4340 6582!4340 6582[4864 6926 3999 6664!3999 6664[3838 7833 3513 6921!3513 6921[3286 7484 3170 6856!3170 6856[2470 7107 3047 6488
+!3047 6488[3623 5869 3043 2180!3043 2180[2614 1422 2342 292!2342 292|2592 308!2592 308[2840 1212 3209 1853!3209 1853[3363 1813 3499 1986!3499 1986[3728 4726 3848 2395!3848 2395[3767 2005 3759 1488!3759 1488|3958 1501"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMShape isDrawingObject="true">
+                      <matrix>
+                        <Matrix a="0.99908447265625" b="-0.0427703857421875" c="0.0427703857421875" d="0.99908447265625" tx="-48.35" ty="130.65"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#584011"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!3402 1970[3404 2079 3284 2057!3284 2057[3179 1815 3290 1858!3290 1858[3401 1902 3402 1970!3905 1501[#F08.F #6CF.42 4002.5 2271!4002.5 2271[#EA8.63 #1164.76 3881 2330!3881 2330[3767 2005 3798 1501!3798 1501|3905 1501!4766 1925[#11B6.9D
+ #7E6.BA 4078 2270!4078 2270[#112D.9A #759.BE 4766 1852!4766 1852|4766 1925!5065 2797[#11FE.CF #D70.4 4568 3752!4568 3752[#1142.15 #CB4.12 5065 2797!2441 308[#ACC.9B #62E.EE 3196 2025!3196 2025[#D0C.44 #B10.C9 3432.5 3139!3432.5 3139
+[#DC8.0E #FD0.4B 3512 4852!3512 4852[#E58.22 #BEF.88 3666 5328!3666 5328[#D5D.B7 #1DB3.AF 3565 5511!3565 5511[#D45.2 #196F.FD 3206 6650!3206 6650[#B1B.A7 #1B9B.69 3184 6546.5!3184 6546.5[#E29.D4 #16EE.1C 3135 2218!3135 2218[2614 1422
+ 2380 292!2380 292|2441 308!3906 6397[3865 6772 3730 5332!3730 5332[3860 5894 3904 5958!3904 5958[3947 6022 3906 6397!4624 3787[#1156.1F #11A6.2C 3787 4359!3787 4359[#1198.FB #FC1.FF 4624 3787"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMSymbolInstance libraryItemName="skins/bush1" name="" centerPoint3DX="156.55" centerPoint3DY="103.45">
+                  <matrix>
+                    <Matrix a="1.58584594726563" b="-0.0678863525390625" c="0.0678863525390625" d="1.58584594726563" tx="37.2" ty="9.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="72.6" y="62.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="skins/bush1" name="" centerPoint3DX="170.75" centerPoint3DY="165.25">
+                  <matrix>
+                    <Matrix a="0.99908447265625" b="-0.0427703857421875" c="0.0427703857421875" d="0.99908447265625" tx="95.45" ty="106.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="73" y="62.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="skins/bush2" name="" centerPoint3DX="255.3" centerPoint3DY="167.45">
+                  <matrix>
+                    <Matrix a="0.99908447265625" b="-0.0427703857421875" c="0.0427703857421875" d="0.99908447265625" tx="180.1" ty="104.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="72.45" y="66.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="skins/bush1" name="" centerPoint3DX="218.3" centerPoint3DY="254.05">
+                  <matrix>
+                    <Matrix a="0.70892333984375" b="-0.0303497314453125" c="0.0303497314453125" d="0.70892333984375" tx="164.95" ty="212.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="72.75" y="62.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="skins/bush2" name="" centerPoint3DX="75.2" centerPoint3DY="133.8">
+                  <matrix>
+                    <Matrix a="0.781539916992188" b="-0.0334625244140625" c="0.0339202880859375" d="0.79217529296875" ty="70.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="72.4" y="66.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="skins/bush2" name="" centerPoint3DX="155.35" centerPoint3DY="344.35">
+                  <matrix>
+                    <Matrix a="0.463394165039063" b="-0.01983642578125" c="0.01922607421875" d="0.448928833007813" tx="80.2" ty="281.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="72.35" y="66"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="0.67" tintColor="#3E5212"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="skins/bush1" name="" centerPoint3DX="103.15" centerPoint3DY="284.65">
+                  <matrix>
+                    <Matrix a="0.706192016601563" b="-0.0302276611328125" c="0.030487060546875" d="0.712249755859375" tx="28" ty="225.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="72.55" y="61.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="skins/bush1" name="" centerPoint3DX="232.45" centerPoint3DY="50.25">
+                  <matrix>
+                    <Matrix a="0.441436767578125" b="-0.0189056396484375" c="0.0189056396484375" d="0.441436767578125" tx="199.1" ty="24.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="72.8" y="61.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="skins/bush2" name="" centerPoint3DX="326.6" centerPoint3DY="209.5">
+                  <matrix>
+                    <Matrix a="0.278854370117188" b="-0.011932373046875" c="0.0121002197265625" d="0.28265380859375" tx="289.35" ty="178.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="72.25" y="66.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

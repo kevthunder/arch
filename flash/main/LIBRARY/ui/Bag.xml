@@ -1,0 +1,309 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="ui/Bag" itemID="4f42c8a1-000001f9" sourceLibraryItemHRef="Symbol 1" lastModified="1329776801">
+  <timeline>
+    <DOMTimeline name="Bag">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-222.1" ty="-228.5"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#564421"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!6753 5194[6782 5921 6735 6665!6735 6665[6744 6851 6567 6967!6567 6967[6111 7263 5487 7494!5487 7494[5303 7562 5091 7474!5091 7474[4786 7374 4543 7216!4543 7216[4512 7197 4468 6731!4468 6731[4424 6264 4454 5757!4454 5757[4484 5250 4563
+ 5220!4563 5220|5718 4602!5718 4602[5813 4552 5921 4580!5921 4580[6282 4679 6582 4898!6582 4898[6746 5018 6753 5194"/>
+                  </edges>
+                </DOMShape>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-222.1" ty="-228.5"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#8E723E"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!6705.5 5152[#1A1F.2A #14F4.19 5239 5714!5239 5714[#14C3.A4 #154D.91 4517 5253!4517 5253|5718 4602!5718 4602[5813 4552 5921 4580!5921 4580[#188A.0E #1247.0A 6503 4809.5!6503 4809.5[#1A43.CF #134B.EE 6705.5 5152"/>
+                  </edges>
+                </DOMShape>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="0.994964599609375" b="0.1002197265625" c="-0.132583618164063" d="1.31625366210938" tx="-110.15" ty="-375"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="261" y="292.05"/>
+                  </transformationPoint>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#382C17"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!5268 5817[#149A.F4 #176F.FF 5258 6388!5258 6388[#147B.61 #1A2E.5 5178.5 5729!5178.5 5729|5179 5729!5179 5729[#148D.11 #1602.26 5268 5817"/>
+                  </edges>
+                </DOMShape>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-222.1" ty="-228.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="279.45" y="308.9"/>
+                  </transformationPoint>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#382C17"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!5749.5 6508.5[#15B9.63 #18EF.D9 5272 5734!5272 5734[#165A.49 #18D7.41 5830 6496!5830 6496[#1731.9E #19E8.F8 5749.5 6508.5"/>
+                  </edges>
+                </DOMShape>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="-0.37493896484375" b="0.2095947265625" c="-0.0447235107421875" d="-0.397918701171875" tx="197.15" ty="187.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="243.35" y="367.05"/>
+                  </transformationPoint>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#382C17"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!4183.5 7305[#125D.A #1BCB.2F 5857 7428!5857 7428[#10F7.6A #1CAB.E8 4004.5 7417.5!4004.5 7417.5[#E51.8B #1D47.07 4183.5 7305"/>
+                  </edges>
+                </DOMShape>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-101.1" ty="-201.45"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#9C804C"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!2817 5067|3929 4433!3929 4433|4263 4529!4263 4529[4246 4811 4251 4830!4251 4830[4166 5397 4127 5578!4127 5578[4105 5644 4063 5678!4063 5678[4024 5708 4008 5770!4008 5770[3723 5902 3584 5962!3584 5962[#DA5.02 #1767.25 3453.5 5970.5!3453.5
+ 5970.5[#D55.FE #173D.DB 3384 5917!3384 5917[3246 5731 2964 5310!2964 5310[2884 5185 2817 5067"/>
+                  </edges>
+                </DOMShape>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-101.1" ty="-201.45"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#8E723E"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!2923 5440[#BCF.DC #1645.7E 3234.5 5975!3234.5 5975[#CDA.A4 #17B1.AE 3421 6141!3421 6141[#D87.C3 #1812.65 3634 6124.5!3634 6124.5[#EDC.36 #17C6.D2 4016 5921.5!4016 5921.5[#1083.B9 #167B.E6 4217 5521!4217 5521[#10A8.2F #143B.5C 4299 4912
+!4299 4912[4303 5616 4287 5925!4287 5925[4283 5990 4252 6077!4252 6077|3993 6187!3993 6187[4044 6202 4250 6145!4250 6145[4235 6273 4197 6316!4197 6316[#F77.8D #1987.DE 3290 6787!3290 6787|2948 6945!2948 6945[2863 7033 2764 6824!2764 6824
+[#AC0.B3 #1A3E.A1 3323 6502!3323 6502[#C95.07 #1951.18 2802 6653!2802 6653[#AA6.AF #179B.1B 2779 5613!2779 5613[2815 5159 2923 5440"/>
+                  </edges>
+                </DOMShape>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-101.1" ty="-201.45"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#72592A"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!2046 5272[2071 4642 2336 4720!2336 4720[2507 4953 2907 4977!2907 4977[2729 5098 2851 5343!2851 5343[2866 5581 2849 6030!2849 6030[2911 5651 2945 5612!2945 5612[2856 5919 2910 6600!2910 6600[#B74.23 #1AE3.16 2873 6928!2873 6928[#A57.1C
+ #1B33.A6 2166 6636!2166 6636[2140 6646 2090 6091!2090 6091[2040 5536 2190 6042!2190 6042[2175 5916 2132 5654!2132 5654[2208 5517 2267 5223!2267 5223[2021 5902 2046 5272"/>
+                  </edges>
+                </DOMShape>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-101.1" ty="-201.45"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#B49863"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!2184 4745[#8CC.A3 #1256.EA 2520 4537.5!2520 4537.5[#ACE.7C #1112.E8 3379 4081!3379 4081[3527 4118 3830 4319!3830 4319[3876 4304 3740 4172!3740 4172[4024 4360 4143 4470!4143 4470[4150 4562 3301 5039!3301 5039[4176 4345 3425 4830!3425
+ 4830[3114 5041 2871 5139!2871 5139[2862 5198 2711 5127!2711 5127[2338 4927 2387 4940!2387 4940[2199 4759 2184 4745"/>
+                  </edges>
+                </DOMShape>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-62.35" ty="-230.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="147.35" y="309"/>
+                  </transformationPoint>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#7B6319"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!3020 5966[#BBE.D7 #17AE.A1 3099 6170!3099 6170[#C77.1D #1885.49 3013 6369.5!3013 6369.5[#B12.C9 #193D.BB 2851 6222.5!2851 6222.5[#B33.6B #175F.43 3020 5966"/>
+                  </edges>
+                </DOMShape>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="0.671249389648438" d="0.671249389648438" tx="95.45" ty="-106.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-8.4" y="272.65"/>
+                  </transformationPoint>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFCC33"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!-99 5271[#57.5 #15AE.C8 -132 5702.5!-132 5702.5[#FFFEA0.AD #16DE.3C -318 5423!-318 5423[#FFFEE3.01 #137F.7A -99 5271"/>
+                  </edges>
+                </DOMShape>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="0.3704833984375" d="0.419387817382813" tx="93.7" ty="-39.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-8.5" y="272.65"/>
+                  </transformationPoint>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#F5E8BF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!-99 5271[#57.5 #15AE.C8 -132 5702.5!-132 5702.5[#FFFEA0.AD #16DE.3C -318 5423!-318 5423[#FFFEE3.01 #137F.7A -99 5271"/>
+                  </edges>
+                </DOMShape>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-223.75" ty="-228.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="308.3" y="267.05"/>
+                  </transformationPoint>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#D7BC8A"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!6567 5152.5[#18CB.52 #1525.8C 5638 5637!5638 5637[#1929.14 #142E.E3 6614 5029!6614 5029[#1A82.C2 #131B.57 6567 5152.5"/>
+                  </edges>
+                </DOMShape>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-220.3" ty="-227.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="260.6" y="343.85"/>
+                  </transformationPoint>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#382C17"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!5255 7425[5237 7812 5143 6247!5143 6247[5222 6879 5247 6958!5247 6958[5272 7037 5255 7425"/>
+                  </edges>
+                </DOMShape>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-222.1" ty="-228.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="285.25" y="273.4"/>
+                  </transformationPoint>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#D7BC8A"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!6078 5275[5816 5502 5162 5735!5162 5735[#1741.1 #148D.A3 6146.5 5155!6146.5 5155[#18C3.FA #13B8.1F 6078 5275"/>
+                  </edges>
+                </DOMShape>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-101.1" ty="-201.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="143.25" y="303.7"/>
+                  </transformationPoint>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#382C17"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!2847 6491[2781 6141 2906 5475!2906 5475[2861 6399 2886 6621!2886 6621[2912 6843 2847 6491"/>
+                  </edges>
+                </DOMShape>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-222.1" ty="-228.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="260.75" y="292"/>
+                  </transformationPoint>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#382C17"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!5268 5817[#149A.F4 #176F.FF 5258 6388!5258 6388[#147B.61 #1A2E.5 5178.5 5729!5178.5 5729|5179 5729!5179 5729[#148D.11 #1602.26 5268 5817"/>
+                  </edges>
+                </DOMShape>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="0.565887451171875" b="-0.827972412109375" c="0.866012573242188" d="0.5" tx="-388.75" ty="112.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="260.4" y="292.05"/>
+                  </transformationPoint>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#D7BC8A"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!5268 5817[#149A.F4 #176F.FF 5258 6388!5258 6388[#147B.61 #1A2E.5 5178.5 5729!5178.5 5729|5179 5729!5179 5729[#148D.11 #1602.26 5268 5817"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,135 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="tree1" itemID="4ee290ec-0000021e" sourceLibraryItemHRef="Symbol 1" lastModified="1323471084" lastUniqueIdentifier="10">
+  <timeline>
+    <DOMTimeline name="tree1">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="bush1" name="" centerPoint3DX="123.55" centerPoint3DY="207.1">
+                  <matrix>
+                    <Matrix a="1.32571411132813" b="-0.0567474365234375" c="0.266952514648438" d="1.75480651855469" tx="10.6" ty="102.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="72.65" y="62.1"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="0.67" tintColor="#30410E"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMGroup>
+                  <members>
+                    <DOMShape isDrawingObject="true">
+                      <matrix>
+                        <Matrix a="0.99908447265625" b="-0.0427703857421875" c="0.0427703857421875" d="0.99908447265625" tx="-48.35" ty="130.65"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#3F2D0B"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!3958 1501[3919 1744 4044 2218!4044 2218[4382 1883 4766 1852!4766 1852|4817 1977!4817 1977[4465 2034 4101 2491!4101 2491[3950 3649 3828 4050!3828 4050[4027 4337 4541 3822!4541 3822[4317 3398 5040 2717!5040 2717[5134 2864 5277 2831!5277
+ 2831[4496 3402 4777 3713!4777 3713[4960 3943 4751 4060!4751 4060[4288 4486 3914 4744!3914 4744[3815 6238 4340 6582!4340 6582[4864 6926 3999 6664!3999 6664[3838 7833 3513 6921!3513 6921[3286 7484 3170 6856!3170 6856[2470 7107 3047 6488
+!3047 6488[3623 5869 3043 2180!3043 2180[2614 1422 2342 292!2342 292|2592 308!2592 308[2840 1212 3209 1853!3209 1853[3363 1813 3499 1986!3499 1986[3728 4726 3848 2395!3848 2395[3767 2005 3759 1488!3759 1488|3958 1501"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMShape isDrawingObject="true">
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#584011"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!1485 2817[1863 4077 2313 4499!2313 4499[2491 5300 2597 5602!2597 5602[2731 6506 2750 7311!2750 7311[2833 5509 2924 7779!2924 7779[2777 10064 2831 7967!2831 7967[2706 8974 2520 9120!2520 9120[2176 9552 2494 9018!2494 9018[2907 8323 2260
+ 4695!2260 4695[1706 3922 1423 2803!1423 2803|1485 2817!2998 3946[2953 4189 3129 4711!3129 4711[2972 6901 3010 4775!3010 4775[2883 4455 2892 3951!2892 3951|2998 3946!2399 4328[2512 4368 2516 4435!2516 4435[2523 4544 2402 4528!2402 4528
+[2287 4290 2399 4328!3877 4332[3651 4440 3204 4707!3204 4707[3507 4305 3874 4259!3874 4259|3877 4332!4213 5190[3783 5853 3757 6167!3757 6167[3586 5673 4213 5190!3815 6199[3660 6937 3003 6806!3003 6806[3707 6450 3815 6199!3209 8837[3184
+ 9214 2988 7780!2988 7780[3141 8337 3188 8399!3188 8399[3234 8460 3209 8837"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMSymbolInstance libraryItemName="bush1" name="" centerPoint3DX="156.55" centerPoint3DY="103.45">
+                  <matrix>
+                    <Matrix a="1.58584594726563" b="-0.0678863525390625" c="0.0678863525390625" d="1.58584594726563" tx="37.2" ty="9.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="72.6" y="62.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="bush1" name="" centerPoint3DX="170.75" centerPoint3DY="165.25">
+                  <matrix>
+                    <Matrix a="0.99908447265625" b="-0.0427703857421875" c="0.0427703857421875" d="0.99908447265625" tx="95.45" ty="106.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="72.95" y="62.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="bush2" name="" centerPoint3DX="255.3" centerPoint3DY="167.45">
+                  <matrix>
+                    <Matrix a="0.99908447265625" b="-0.0427703857421875" c="0.0427703857421875" d="0.99908447265625" tx="180.1" ty="104.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="72.45" y="66.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="bush1" name="" centerPoint3DX="218.3" centerPoint3DY="254.05">
+                  <matrix>
+                    <Matrix a="0.70892333984375" b="-0.0303497314453125" c="0.0303497314453125" d="0.70892333984375" tx="164.95" ty="212.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="72.75" y="62.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="bush2" name="" centerPoint3DX="75.2" centerPoint3DY="133.8">
+                  <matrix>
+                    <Matrix a="0.781539916992188" b="-0.0334625244140625" c="0.0339202880859375" d="0.79217529296875" ty="70.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="72.4" y="66.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="bush2" name="" centerPoint3DX="155.35" centerPoint3DY="344.35">
+                  <matrix>
+                    <Matrix a="0.463394165039063" b="-0.01983642578125" c="0.01922607421875" d="0.448928833007813" tx="80.2" ty="281.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="72.35" y="66"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="0.67" tintColor="#3E5212"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="bush1" name="" centerPoint3DX="103.15" centerPoint3DY="284.65">
+                  <matrix>
+                    <Matrix a="0.706192016601563" b="-0.0302276611328125" c="0.030487060546875" d="0.712249755859375" tx="28" ty="225.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="72.55" y="61.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="bush1" name="" centerPoint3DX="232.45" centerPoint3DY="50.25">
+                  <matrix>
+                    <Matrix a="0.441436767578125" b="-0.0189056396484375" c="0.0189056396484375" d="0.441436767578125" tx="199.1" ty="24.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="72.8" y="61.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="bush2" name="" centerPoint3DX="326.6" centerPoint3DY="209.5">
+                  <matrix>
+                    <Matrix a="0.278854370117188" b="-0.011932373046875" c="0.0121002197265625" d="0.28265380859375" tx="289.35" ty="178.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="72.25" y="66.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

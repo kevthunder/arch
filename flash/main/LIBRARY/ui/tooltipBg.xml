@@ -1,0 +1,38 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="ui/tooltipBg" itemID="4df0eb5b-00000c89" linkageExportForAS="true" linkageExportInFirstFrame="false" linkageClassName="TooltipBg" sourceLibraryItemHRef="Symbol 1" lastModified="1311111379" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="tooltipBg">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="shapes/Arrow" name="arrow" centerPoint3DX="79" centerPoint3DY="25">
+                  <matrix>
+                    <Matrix tx="75" ty="17"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="4" y="8"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#FFFFFF"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="shapes/Square" name="square" centerPoint3DX="41" centerPoint3DY="18">
+                  <matrix>
+                    <Matrix a="0.340011596679688" d="0.169921875"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="100" y="100.05"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#FFFFFF"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,33 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="skins/TileWire" itemID="4f595e88-00000249" sourceLibraryItemHRef="skins/TileGround copy" lastModified="1331257331">
+  <timeline>
+    <DOMTimeline name="TileWire">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.0382843017578125" d="0.0382843017578125" tx="12.5" ty="12.5"/>
+                        </matrix>
+                        <GradientEntry color="#00ADBD" ratio="0.227450980392157"/>
+                        <GradientEntry color="#0080AB" alpha="0" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!20 -320|20 0!20 0|480 0!480 0|480 -320!480 -320|500 -320!500 -320|500 0!500 0|820 0!820 0|820 20!820 20|500 20!500 20|500 480!500 480|820 480!820 480|820 500!820 500|500 500!500 500|500 820!500 820|480 820!480 820|480 500!480 500|20
+ 500!20 500|20 820!20 820|0 820!0 820|0 500!0 500|-320 500!-320 500|-320 480!-320 480|0 480!0 480|0 20!0 20|-320 20!-320 20|-320 0!-320 0|0 0!0 0|0 -320!0 -320|20 -320!480 20|20 20!20 20|20 480!20 480|480 480!480 480|480 20"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

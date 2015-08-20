@@ -1,0 +1,76 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="logo/Shadow" itemID="4f20b04b-00000239" sourceLibraryItemHRef="Symbol 1" lastModified="1327542347">
+  <timeline>
+    <DOMTimeline name="Shadow">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-410.2" ty="-132.15"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient focalPointRatio="0.254901960784314">
+                        <matrix>
+                          <Matrix a="0" b="0.05010986328125" c="-0.05010986328125" d="0" tx="450.35" ty="172.3"/>
+                        </matrix>
+                        <GradientEntry ratio="0.325490196078431"/>
+                        <GradientEntry color="#1B1B1B" ratio="0.623529411764706"/>
+                        <GradientEntry color="#4A4A4A" ratio="0.752941176470588"/>
+                        <GradientEntry color="#CCCCCC" ratio="0.941176470588235"/>
+                        <GradientEntry ratio="0.992156862745098"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!9575 2878[9810 3113 9810 3446!9810 3446[9810 3779 9575 4014!9575 4014[9340 4249 9007 4249!9007 4249[8674 4249 8439 4014!8439 4014[8204 3779 8204 3446!8204 3446[8204 3113 8439 2878!8439 2878[8674 2643 9007 2643!9007 2643[9340 2643 9575
+ 2878"/>
+                    <Edge cubics="!9810 3446(;9810,3668 9732,3857 9575,4014q9810 3446Q9810 3779q9575 4014);"/>
+                    <Edge cubics="!9575 2878(;9732,3035 9810,3224 9810,3446q9575 2878Q9810 3113q9810 3446);"/>
+                    <Edge cubics="!8439 2878(;8596,2721 8785,2643 9007,2643q8439 2878Q8674 2643q9007 2643);"/>
+                    <Edge cubics="!9007 4249(;8785,4249 8596,4171 8439,4014q9007 4249Q8674 4249q8439 4014);"/>
+                    <Edge cubics="!8439 4014(;8282,3857 8204,3668 8204,3446q8439 4014Q8204 3779q8204 3446);"/>
+                    <Edge cubics="!8204 3446(;8204,3224 8282,3035 8439,2878q8204 3446Q8204 3113q8439 2878);"/>
+                    <Edge cubics="!9575 4014(;9418,4171 9229,4249 9007,4249q9575 4014Q9340 4249q9007 4249);"/>
+                    <Edge cubics="!9007 2643(;9229,2643 9418,2721 9575,2878q9007 2643Q9340 2643q9575 2878);"/>
+                  </edges>
+                </DOMShape>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-410.2" ty="-132.15"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.1290283203125" d="0.0994720458984375" tx="450.15" ty="213.65"/>
+                        </matrix>
+                        <GradientEntry ratio="0.615686274509804"/>
+                        <GradientEntry alpha="0" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!9575 2878[9810 3113 9810 3446!9810 3446[9810 3779 9575 4014!9575 4014[9340 4249 9007 4249!9007 4249[8674 4249 8439 4014!8439 4014[8204 3779 8204 3446!8204 3446[8204 3113 8439 2878!8439 2878[8674 2643 9007 2643!9007 2643[9340 2643 9575
+ 2878"/>
+                    <Edge cubics="!9810 3446(;9810,3668 9732,3857 9575,4014q9810 3446Q9810 3779q9575 4014);"/>
+                    <Edge cubics="!9575 2878(;9732,3035 9810,3224 9810,3446q9575 2878Q9810 3113q9810 3446);"/>
+                    <Edge cubics="!8439 2878(;8596,2721 8785,2643 9007,2643q8439 2878Q8674 2643q9007 2643);"/>
+                    <Edge cubics="!9007 4249(;8785,4249 8596,4171 8439,4014q9007 4249Q8674 4249q8439 4014);"/>
+                    <Edge cubics="!8439 4014(;8282,3857 8204,3668 8204,3446q8439 4014Q8204 3779q8204 3446);"/>
+                    <Edge cubics="!8204 3446(;8204,3224 8282,3035 8439,2878q8204 3446Q8204 3113q8439 2878);"/>
+                    <Edge cubics="!9575 4014(;9418,4171 9229,4249 9007,4249q9575 4014Q9340 4249q9007 4249);"/>
+                    <Edge cubics="!9007 2643(;9229,2643 9418,2721 9575,2878q9007 2643Q9340 2643q9575 2878);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

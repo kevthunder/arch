@@ -1,0 +1,28 @@
+=================== Todo ===================
+Zones
+death teleport to the deah zone
+dammage label : better position
+Effect : should only use Controlled alias
+Performance : pour chercher parents ou enfants utiliser un between sur le left uniquement
+range is off on the void tile creation
+too short pathing wont display
+predict sub timed event
+Sécuriser l'admin
+Flash : retenir username/password
+Flash : Behaviors
+superposed tile validation
+fertiliser : si value assez élevé, chances de créé des arbres
+chat: invalider cache_x et cache_y
+Planning: Mises a jours plus fréquante
+Planning::savePlanning : make a validate
+LinkComponent::getInvalidationData : retourné seulement les champs invalidé
+Outils pour réparer les nodes
+Flash : uniformiser les noms de champs pour Path.
+Flash : select character en ConnectionXMLRequest.
+
+
+
+
+
+=================== Général ===================
+Faire des update de l'interface fréquament.

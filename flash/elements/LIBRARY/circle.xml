@@ -1,0 +1,30 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="circle" itemID="4fbd67a9-0000021a" sourceLibraryItemHRef="Symbol 1" lastModified="1337812905">
+  <timeline>
+    <DOMTimeline name="circle">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-97.2" ty="32.3"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#009900"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!2085 -505[2027 -446 1944 -446!1944 -446[1861 -446 1802 -505!1802 -505[1744 -563 1744 -646!1744 -646[1744 -729 1802 -788!1802 -788[1861 -846 1944 -846!1944 -846[2027 -846 2085 -788!2085 -788[2144 -729 2144 -646!2144 -646[2144 -563 2085
+ -505"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

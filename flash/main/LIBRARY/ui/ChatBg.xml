@@ -1,0 +1,64 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="ui/ChatBg" itemID="4f42e986-000002b0" sourceLibraryItemHRef="Symbol 1" lastModified="1329785222">
+  <timeline>
+    <DOMTimeline name="ChatBg">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="1.4466552734375" d="0.659652709960938" tx="-74.4" ty="51.7"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#999999"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!1720 -1567|7250 -1567!7250 -1567|7250 -809!7250 -809|1720 -809!1720 -809|1720 -1567"/>
+                  </edges>
+                </DOMShape>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="1.4466552734375" d="0.554092407226563" tx="-76.4" ty="45.4"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!1720 -1567|7250 -1567!7250 -1567|7250 -809!7250 -809|1720 -809!1720 -809|1720 -1567"/>
+                  </edges>
+                </DOMShape>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="1.03732299804688" d="1.03733825683594"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="25.55" y="12.05"/>
+                  </transformationPoint>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="0.01470947265625" c="-0.03857421875" d="0" tx="31.6" ty="12.05"/>
+                        </matrix>
+                        <GradientEntry color="#4D4D4D" ratio="0.431372549019608"/>
+                        <GradientEntry color="#383838" ratio="0.572549019607843"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!1264 241|1023 482!1023 482|0 482!0 482|0 0!0 0|1023 0!1023 0|1264 241"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

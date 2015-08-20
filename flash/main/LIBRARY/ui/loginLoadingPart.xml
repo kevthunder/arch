@@ -1,0 +1,35 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="ui/loginLoadingPart" itemID="4e1b7de8-0000021a" sourceLibraryItemHRef="Symbol 1" lastModified="1310424553">
+  <timeline>
+    <DOMTimeline name="loginLoadingPart">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-296.05"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="0.017730712890625" c="-0.019500732421875" d="0" tx="312.05" ty="14.5"/>
+                        </matrix>
+                        <GradientEntry color="#BBFF00" ratio="0.431372549019608"/>
+                        <GradientEntry color="#83C200" ratio="0.572549019607843"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!6578 0|5922 0!5922 0|6212 290!6212 290|5921 581!5921 581|6577 581!6577 581|6868 290!6868 290|6578 0"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

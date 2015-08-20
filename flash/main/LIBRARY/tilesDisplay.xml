@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="tilesDisplay" itemID="4ddac353-000001d6" linkageExportForAS="true" linkageExportInFirstFrame="false" linkageClassName="TilesDisplay" sourceLibraryItemHRef="Symbol 1" lastModified="1306450176" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="tilesDisplay">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="shapes/Square" name="">
+                  <matrix>
+                    <Matrix tx="-100" ty="-100"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="100" y="100"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

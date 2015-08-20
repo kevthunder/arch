@@ -1,0 +1,35 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="degrade" itemID="4f9f2854-000002aa" sourceLibraryItemHRef="Symbol 1" lastModified="1335830612">
+  <timeline>
+    <DOMTimeline name="degrade">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-1006.75" ty="-587.45"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="-0.05078125" c="0.091033935546875" d="0" tx="1081.3" ty="711.7"/>
+                        </matrix>
+                        <GradientEntry color="#FF0000" alpha="0" ratio="0"/>
+                        <GradientEntry color="#FF0000" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!23118 11749|23118 16732!23118 16732|20135 16732!20135 16732|20135 11749!20135 11749|23118 11749"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

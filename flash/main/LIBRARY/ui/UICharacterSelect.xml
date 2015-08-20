@@ -1,0 +1,79 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="ui/UICharacterSelect" itemID="4f3c48ad-000003b3" linkageExportForAS="true" linkageExportInFirstFrame="false" linkageBaseClass="UInterface" linkageClassName="UICharacterSelect" sourceLibraryItemHRef="Symbol 1" lastModified="1329354898" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="UICharacterSelect">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMComponentInstance libraryItemName="CustomList" name="characterList" centerPoint3DX="6.85" centerPoint3DY="77" uniqueID="1">
+                  <matrix>
+                    <Matrix a="2.4482421875" d="3.39950561523438" tx="73.75" ty="27"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="50.2" y="50.05"/>
+                  </transformationPoint>
+                  <dataBindingXML><![CDATA[<component metaDataFetched='true' schemaUrl='' schemaOperation='' sceneRootLabel='TileCrackedBackstoneSkin' oldCopiedComponentPath=''>
+</component>
+]]></dataBindingXML>
+                  <parametersAsXML><![CDATA[   <property id="allowMultipleSelection">
+      <Inspectable name="allowMultipleSelection" variable="allowMultipleSelection" category="" verbose="0" defaultValue="false" type="Boolean"/>
+   </property>
+   <property id="dataProvider">
+      <Inspectable name="dataProvider" variable="dataProvider" category="" verbose="0" defaultValue="fl.data.DataProvider, fl.data.SimpleCollectionItem, item, 0, 0" type="Collection"/>
+   </property>
+   <property id="enabled">
+      <Inspectable name="enabled" variable="enabled" category="" verbose="1" defaultValue="true" type="Boolean"/>
+   </property>
+   <property id="horizontalDirection">
+      <Inspectable name="horizontalDirection" variable="horizontalDirection" category="" verbose="0" defaultValue="left to right" enumeration="left to right,right to left" type="List"/>
+   </property>
+   <property id="horizontalLineScrollSize">
+      <Inspectable name="horizontalLineScrollSize" variable="horizontalLineScrollSize" category="" verbose="0" defaultValue="4" type="Number"/>
+   </property>
+   <property id="horizontalPageScrollSize">
+      <Inspectable name="horizontalPageScrollSize" variable="horizontalPageScrollSize" category="" verbose="0" defaultValue="0" type="Number"/>
+   </property>
+   <property id="horizontalScrollPolicy">
+      <Inspectable name="horizontalScrollPolicy" variable="horizontalScrollPolicy" category="" verbose="0" defaultValue="auto" enumeration="on,off,auto" type="List"/>
+   </property>
+   <property id="mainDirection">
+      <Inspectable name="mainDirection" variable="mainDirection" category="" verbose="0" defaultValue="horizontal" enumeration="horizontal,vertical" type="List"/>
+   </property>
+   <property id="maxCellHeight">
+      <Inspectable name="maxCellHeight" variable="maxCellHeight" category="" verbose="0" defaultValue="4096" type="Number"/>
+   </property>
+   <property id="maxCellWidth">
+      <Inspectable name="maxCellWidth" variable="maxCellWidth" category="" verbose="0" defaultValue="4096" type="Number"/>
+   </property>
+   <property id="minCellHeight">
+      <Inspectable name="minCellHeight" variable="minCellHeight" category="" verbose="0" defaultValue="1" type="Number"/>
+   </property>
+   <property id="minCellWidth">
+      <Inspectable name="minCellWidth" variable="minCellWidth" category="" verbose="0" defaultValue="1" type="Number"/>
+   </property>
+   <property id="verticalDirection">
+      <Inspectable name="verticalDirection" variable="verticalDirection" category="" verbose="0" defaultValue="top to bottom" enumeration="top to bottom,bottom to top" type="List"/>
+   </property>
+   <property id="verticalLineScrollSize">
+      <Inspectable name="verticalLineScrollSize" variable="verticalLineScrollSize" category="" verbose="0" defaultValue="4" type="Number"/>
+   </property>
+   <property id="verticalPageScrollSize">
+      <Inspectable name="verticalPageScrollSize" variable="verticalPageScrollSize" category="" verbose="0" defaultValue="0" type="Number"/>
+   </property>
+   <property id="verticalScrollPolicy">
+      <Inspectable name="verticalScrollPolicy" variable="verticalScrollPolicy" category="" verbose="0" defaultValue="auto" enumeration="on,off,auto" type="List"/>
+   </property>
+   <property id="visible">
+      <Inspectable name="visible" variable="visible" category="" verbose="1" defaultValue="true" type="Boolean"/>
+   </property>
+]]></parametersAsXML>
+                </DOMComponentInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

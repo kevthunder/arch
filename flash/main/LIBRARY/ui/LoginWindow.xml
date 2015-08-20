@@ -1,0 +1,94 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="ui/LoginWindow" itemID="4e1b70d4-000001e4" linkageExportForAS="true" linkageExportInFirstFrame="false" linkageClassName="LoginWindow" sourceLibraryItemHRef="Symbol 1" lastModified="1329783362" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="LoginWindow">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!6560 2160|0 2160!0 2160|0 0!0 0|6560 0!6560 0|6560 2160"/>
+                  </edges>
+                </DOMShape>
+                <DOMStaticText width="127.45" height="46.6" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="13.55" ty="17"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Username :&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="right" aliasText="false" rotation="true" letterSpacing="0.8" lineSpacing="0" size="20" face="HelveticaNeue-Roman" fillColor="#333333"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="124.7" height="46.6" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="17.3" ty="46"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Password :&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="right" aliasText="false" rotation="true" letterSpacing="0.8" lineSpacing="0" size="20" face="HelveticaNeue-Roman" fillColor="#333333"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="ui/BtLogin" name="loginButton" centerPoint3DX="164" centerPoint3DY="94">
+                  <matrix>
+                    <Matrix ty="79.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="164" y="14.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ui/loginLoading" name="loadingClip" centerPoint3DX="164" centerPoint3DY="94">
+                  <matrix>
+                    <Matrix ty="79.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="164" y="14.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMInputText name="txtUsername" width="166.4" height="22.35" border="true">
+                  <matrix>
+                    <Matrix tx="142.6" ty="16"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineSpacing="-3" rightMargin="0.2" size="20" bitmapSize="400" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMInputText>
+                <DOMInputText name="txtPassword" width="166.4" height="22.35" border="true" lineType="password">
+                  <matrix>
+                    <Matrix tx="142.6" ty="45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineSpacing="0" size="20" bitmapSize="400" face="ArialMT" fillColor="#333333"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMInputText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

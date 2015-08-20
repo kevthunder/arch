@@ -1,0 +1,26 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="VoidDemon/torso2Mask" itemID="4f9f2dd4-00000330" sourceLibraryItemHRef="Symbol 1" lastModified="1335832020" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="torso2Mask">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="VoidDemon/torso2" name="" centerPoint3DX="69.8" centerPoint3DY="120.9">
+                  <transformationPoint>
+                    <Point x="69.8" y="120.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="degrade" name="" blendMode="alpha" centerPoint3DX="74.55" centerPoint3DY="124.55">
+                  <transformationPoint>
+                    <Point x="74.55" y="124.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,40 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="shapes/Light1" itemID="509317c5-000002f9" sourceLibraryItemHRef="Symbol 1" lastModified="1351817230">
+  <timeline>
+    <DOMTimeline name="Light1">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.07867431640625" d="0.07867431640625"/>
+                        </matrix>
+                        <GradientEntry color="#FF0000" ratio="0"/>
+                        <GradientEntry color="#FF0000" alpha="0.713725490196078" ratio="0.117647058823529"/>
+                        <GradientEntry color="#FF0000" alpha="0.529411764705882" ratio="0.231372549019608"/>
+                        <GradientEntry color="#FF0000" alpha="0.392156862745098" ratio="0.349019607843137"/>
+                        <GradientEntry color="#FF0000" alpha="0.298039215686275" ratio="0.443137254901961"/>
+                        <GradientEntry color="#FF0000" alpha="0.207843137254902" ratio="0.474509803921569"/>
+                        <GradientEntry color="#FF0000" alpha="0.125490196078431" ratio="0.607843137254902"/>
+                        <GradientEntry color="#FF0000" alpha="0.0705882352941176" ratio="0.737254901960784"/>
+                        <GradientEntry color="#FF0000" alpha="0.0274509803921569" ratio="0.905882352941176"/>
+                        <GradientEntry color="#FF0000" alpha="0" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!905 -905[1280 -530 1280 0!1280 0[1280 530 905 905!905 905[530 1280 0 1280!0 1280[-530 1280 -905 905!-905 905[-1280 530 -1280 0!-1280 0[-1280 -530 -905 -905!-905 -905[-530 -1280 0 -1280!0 -1280[530 -1280 905 -905"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,28 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="leave" itemID="4fbd6765-00000216" sourceLibraryItemHRef="Symbol 1" lastModified="1337812837">
+  <timeline>
+    <DOMTimeline name="leave">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#009900"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!-124 249S1[-119 392 -1 526!-1 526[118 380 124 240!124 240[130 89 -1 0!-1 0[-129 97 -124 249"/>
+                    <Edge cubics="!-1 0(;-178,134 -152,355 -1,526q-1 0Q-129 97q-124 249Q-119 392q-1 526);"/>
+                    <Edge cubics="!-1 0(;181,124 149,341 -1,526q-1 0Q130 89q124 240Q118 380q-1 526);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

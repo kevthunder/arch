@@ -1,0 +1,78 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="ui/Chat" itemID="4f42e162-0000028b" linkageExportForAS="true" linkageExportInFirstFrame="false" linkageClassName="UIChat" sourceLibraryItemHRef="Symbol 1" lastModified="1330040187" lastUniqueIdentifier="4">
+  <timeline>
+    <DOMTimeline name="Chat">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="ui/ChatBg" name="bg" centerPoint3DX="225" centerPoint3DY="12.5">
+                  <transformationPoint>
+                    <Point x="225" y="12.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ui/SpeechBubble" name="btSend" centerPoint3DX="38.4" centerPoint3DY="12.35">
+                  <matrix>
+                    <Matrix a="0.385513305664063" d="0.385513305664063" tx="27.4" ty="3.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="28.55" y="24.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMInputText name="txtInput" width="380" height="17">
+                  <matrix>
+                    <Matrix tx="66" ty="5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" size="14" bitmapSize="280" face="HelveticaNeue-Roman"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMInputText>
+                <DOMDynamicText name="txtMessages" width="446" height="296">
+                  <matrix>
+                    <Matrix tx="2" ty="27"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" size="10" bitmapSize="200" face="HelveticaNeue-Roman" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter color="#000000" strength="20"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="ui/BtClose" name="btClose" symbolType="button">
+                  <transformationPoint>
+                    <Point x="5.4" y="5.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ui/SpeechBubble2" name="btOpen" centerPoint3DX="33.5" centerPoint3DY="29.15">
+                  <matrix>
+                    <Matrix a="0.401580810546875" d="0.401580810546875" tx="2" ty="2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="31.5" y="27.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true" layerType="guide">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="skins/BlackFlameSkin" itemID="4fa1b1fc-000002a3" linkageExportForAS="true" linkageBaseClass="PersoSkin" linkageClassName="BlackFlameSkin" sourceLibraryItemHRef="skins/Perso1Skin copy" lastModified="1354065487" lastUniqueIdentifier="3">
+  <timeline>
+    <DOMTimeline name="BlackFlameSkin">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/BlackFlameSkin_parts/BlackFlame" name="model" selected="true" centerPoint3DX="71" centerPoint3DY="-132">
+                  <matrix>
+                    <Matrix a="0.20709228515625" d="0.20709228515625" tx="-23" ty="-58"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="111.05" y="170.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

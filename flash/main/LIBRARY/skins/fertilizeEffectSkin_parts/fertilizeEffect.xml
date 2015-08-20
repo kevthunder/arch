@@ -1,0 +1,1310 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="skins/fertilizeEffectSkin_parts/fertilizeEffect" itemID="4fbd66f7-00000210" sourceLibraryItemHRef="Symbol 1" lastModified="1337816128" lastUniqueIdentifier="130">
+  <timeline>
+    <DOMTimeline name="fertilizeEffect">
+      <layers>
+        <DOMLayer name="circle" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="37" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="37" duration="17" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="shapes/circle" name="" selected="true" centerPoint3DX="-27" centerPoint3DY="-79.95">
+                  <matrix>
+                    <Matrix a="0.0779876708984375" b="-0.0450286865234375" c="0.0864715576171875" d="0.149765014648438" tx="-26.55" ty="-79.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#FFFF00"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="54" duration="11" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="shapes/circle" name="" centerPoint3DX="-27.15" centerPoint3DY="-79.8">
+                  <matrix>
+                    <Matrix a="0.176010131835938" b="-0.175994873046875" c="0.337966918945313" d="0.337997436523438" tx="-26.65" ty="-79.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#FFFF00"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="65" duration="12" tweenType="motion" motionTweenRotate="clockwise" motionTweenRotateTimes="1" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="shapes/circle" name="" centerPoint3DX="-27.15" centerPoint3DY="-79.8">
+                  <matrix>
+                    <Matrix a="0.176010131835938" b="-0.175994873046875" c="0.337966918945313" d="0.337997436523438" tx="-26.65" ty="-79.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#FFFF00"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="77" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="shapes/circle" name="" centerPoint3DX="-26.75" centerPoint3DY="-177.25">
+                  <matrix>
+                    <Matrix a="0.107894897460938" b="0.10791015625" c="-0.20721435546875" d="0.207199096679688" tx="-26.65" ty="-176.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#FFFF00"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="78" duration="6" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="leave" color="#808080" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="46" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="46" duration="12" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/fertilizeEffectSkin_parts/leave" name="" centerPoint3DX="-28.6" centerPoint3DY="-79.45">
+                  <matrix>
+                    <Matrix a="0.0995025634765625" b="0.2000732421875" c="-0.133987426757813" d="0.0166778564453125" tx="-26.8" ty="-79.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.1" y="13.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#FF6600"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="58" duration="11" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/fertilizeEffectSkin_parts/leave" name="" centerPoint3DX="-19.55" centerPoint3DY="-64.35">
+                  <matrix>
+                    <Matrix a="0.884384155273438" b="0.18890380859375" c="0.425613403320313" d="1.1065673828125" tx="-26.4" ty="-79.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.15" y="12.8"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#FF6600"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="69" duration="12" tweenType="motion" motionTweenRotate="counter-clockwise" motionTweenRotateTimes="1" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/fertilizeEffectSkin_parts/leave" name="" centerPoint3DX="-19.55" centerPoint3DY="-64.35">
+                  <matrix>
+                    <Matrix a="0.884384155273438" b="0.18890380859375" c="0.425613403320313" d="1.1065673828125" tx="-26.4" ty="-79.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.15" y="12.8"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#FF6600"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="81" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/fertilizeEffectSkin_parts/leave" name="" centerPoint3DX="-21.25" centerPoint3DY="-142.95">
+                  <matrix>
+                    <Matrix a="0.018035888671875" b="0.350814819335938" c="-0.372390747070313" d="0.27093505859375" tx="-15.95" ty="-147.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.25" y="12.75"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#FF6600"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="82" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="leave" color="#4F80FF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="43" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="43" duration="12" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/fertilizeEffectSkin_parts/leave" name="" centerPoint3DX="-25.5" centerPoint3DY="-77.25">
+                  <matrix>
+                    <Matrix a="0.157501220703125" b="0.03399658203125" c="0.0760955810546875" d="0.197235107421875" tx="-26.65" ty="-79.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.55" y="13.05"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#FF6600"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="55" duration="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/fertilizeEffectSkin_parts/leave" name="" centerPoint3DX="-12.55" centerPoint3DY="-71.3">
+                  <matrix>
+                    <Matrix a="-0.0327911376953125" b="-0.936233520507813" c="0.980819702148438" d="0.657089233398438" tx="-25.75" ty="-79.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.4" y="13.25"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#FF6600"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="61" duration="12" tweenType="motion" motionTweenRotate="counter-clockwise" motionTweenRotateTimes="1" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/fertilizeEffectSkin_parts/leave" name="" centerPoint3DX="-12.55" centerPoint3DY="-71.3">
+                  <matrix>
+                    <Matrix a="-0.0327911376953125" b="-0.936233520507813" c="0.980819702148438" d="0.657089233398438" tx="-25.75" ty="-79.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.4" y="13.25"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#FF6600"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="73" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/fertilizeEffectSkin_parts/leave" name="" centerPoint3DX="-14" centerPoint3DY="-162.2">
+                  <matrix>
+                    <Matrix a="-0.333358764648438" b="0.0116729736328125" c="0.233963012695313" d="-0.349227905273438" tx="-16.5" ty="-157.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.4" y="13.25"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#FF6600"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="74" duration="11" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="leave" color="#FF4F4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="40" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="40" duration="12" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/fertilizeEffectSkin_parts/leave" name="" centerPoint3DX="-24.2" centerPoint3DY="-78.55">
+                  <matrix>
+                    <Matrix a="-0.006011962890625" b="-0.166748046875" c="0.175018310546875" d="0.117080688476563" tx="-26.55" ty="-79.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.65" y="12.9"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#FF6600"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="52" duration="12" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/fertilizeEffectSkin_parts/leave" name="" centerPoint3DX="-24.45" centerPoint3DY="-91.45">
+                  <matrix>
+                    <Matrix a="-0.974472045898438" b="-0.750778198242188" c="0.242294311523438" d="-0.731643676757813" tx="-25.85" ty="-80.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.75" y="13.05"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#FF6600"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="64" duration="12" tweenType="motion" motionTweenRotate="counter-clockwise" motionTweenRotateTimes="1" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/fertilizeEffectSkin_parts/leave" name="" centerPoint3DX="-24.45" centerPoint3DY="-91.45">
+                  <matrix>
+                    <Matrix a="-0.974472045898438" b="-0.750778198242188" c="0.242294311523438" d="-0.731643676757813" tx="-25.85" ty="-80.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.75" y="13.05"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#FF6600"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="76" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/fertilizeEffectSkin_parts/leave" name="" centerPoint3DX="-24.15" centerPoint3DY="-195.45">
+                  <matrix>
+                    <Matrix a="-0.300994873046875" b="0.722640991210938" c="-0.4896240234375" d="-0.0284423828125" tx="-16.8" ty="-196.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1.05" y="12.95"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#FF6600"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="77" duration="8" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="leave" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="37" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="37" duration="12" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/fertilizeEffectSkin_parts/leave" name="" selected="true" centerPoint3DX="-26.4" centerPoint3DY="-81.85">
+                  <matrix>
+                    <Matrix a="-0.173736572265625" b="-0.134048461914063" c="0.0434112548828125" d="-0.13031005859375" tx="-26.65" ty="-80"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.25" y="12.75"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#FF6600"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="49" duration="22" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/fertilizeEffectSkin_parts/leave" name="" centerPoint3DX="-38.55" centerPoint3DY="-92.5">
+                  <matrix>
+                    <Matrix a="-0.52783203125" b="0.4178466796875" c="-0.781692504882813" d="-0.92889404296875" tx="-26.55" ty="-80.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.4" y="12.75"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#FF6600"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="71" duration="12" tweenType="motion" motionTweenRotate="counter-clockwise" motionTweenRotateTimes="1" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/fertilizeEffectSkin_parts/leave" name="" centerPoint3DX="-38.55" centerPoint3DY="-92.5">
+                  <matrix>
+                    <Matrix a="-0.52783203125" b="0.4178466796875" c="-0.781692504882813" d="-0.92889404296875" tx="-26.55" ty="-80.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.4" y="12.65"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#FF6600"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="83" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/fertilizeEffectSkin_parts/leave" name="" centerPoint3DX="-35.75" centerPoint3DY="-149">
+                  <matrix>
+                    <Matrix a="0.202499389648438" b="0.25579833984375" c="-0.450164794921875" d="0.378829956054688" tx="-30.35" ty="-155.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="12.9"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#FF6600"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="leave" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="34" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="34" duration="12" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/fertilizeEffectSkin_parts/leave" name="" centerPoint3DX="-28.6" centerPoint3DY="-81.8">
+                  <matrix>
+                    <Matrix a="-0.093994140625" b="0.0746612548828125" c="-0.13934326171875" d="-0.165817260742188" tx="-26.8" ty="-80.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.4" y="12.45"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#FF6600"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="46" duration="19" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/fertilizeEffectSkin_parts/leave" name="" centerPoint3DX="-35.45" centerPoint3DY="-77.85">
+                  <matrix>
+                    <Matrix a="0.555633544921875" b="1.12289428710938" c="-0.752349853515625" d="0.0926513671875" tx="-27.15" ty="-79.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.15" y="12.65"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#FF6600"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="65" duration="12" tweenType="motion" motionTweenRotate="clockwise" motionTweenRotateTimes="1" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/fertilizeEffectSkin_parts/leave" name="" centerPoint3DX="-35.45" centerPoint3DY="-77.85">
+                  <matrix>
+                    <Matrix a="0.555633544921875" b="1.12289428710938" c="-0.752349853515625" d="0.0926513671875" tx="-27.15" ty="-79.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.15" y="12.65"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#FF6600"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="77" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/fertilizeEffectSkin_parts/leave" name="" centerPoint3DX="-38.85" centerPoint3DY="-184.1">
+                  <matrix>
+                    <Matrix a="-0.538589477539063" b="-0.182022094726563" c="0.211685180664063" d="-0.2711181640625" tx="-39.5" ty="-180.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.1" y="12.55"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#FF6600"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="78" duration="6" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="leave" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="22" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="22" duration="12" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/fertilizeEffectSkin_parts/leave" name="" selected="true" centerPoint3DX="-33.35" centerPoint3DY="-60.7">
+                  <matrix>
+                    <Matrix a="0.01031494140625" b="0.146682739257813" c="-0.146682739257813" d="0.01031494140625" tx="-32.3" ty="-58.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.15" y="13"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="34" duration="23" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/fertilizeEffectSkin_parts/leave" name="" centerPoint3DX="-47.8" centerPoint3DY="-58.35">
+                  <matrix>
+                    <Matrix a="0.065643310546875" b="0.934158325195313" c="-0.934158325195313" d="0.065643310546875" tx="-36.45" ty="-56.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.1" y="13.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="57" duration="12" tweenType="motion" motionTweenRotate="counter-clockwise" motionTweenRotateTimes="1" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/fertilizeEffectSkin_parts/leave" name="" centerPoint3DX="-47.8" centerPoint3DY="-58.35">
+                  <matrix>
+                    <Matrix a="0.065643310546875" b="0.934158325195313" c="-0.934158325195313" d="0.065643310546875" tx="-36.45" ty="-56.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.1" y="13.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="69" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/fertilizeEffectSkin_parts/leave" name="" centerPoint3DX="-46.4" centerPoint3DY="-141.7">
+                  <matrix>
+                    <Matrix a="-0.3267822265625" b="0.0229644775390625" c="-0.0229644775390625" d="-0.3267822265625" tx="-48.45" ty="-138.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.15" y="13.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="70" duration="14" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="leave" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="18" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="18" duration="11" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/fertilizeEffectSkin_parts/leave" name="" centerPoint3DX="-20.75" centerPoint3DY="-49.9">
+                  <matrix>
+                    <Matrix a="0.109405517578125" b="0.187698364257813" c="-0.187698364257813" d="0.109405517578125" tx="-17.75" ty="-48.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.1" y="13.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="29" duration="33" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/fertilizeEffectSkin_parts/leave" name="" centerPoint3DX="-32.5" centerPoint3DY="-41.85">
+                  <matrix>
+                    <Matrix a="0.471572875976563" b="0.809066772460938" c="-0.809066772460938" d="0.471572875976563" tx="-21.3" ty="-45.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.1" y="13.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="62" duration="12" tweenType="motion" motionTweenRotate="clockwise" motionTweenRotateTimes="1" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/fertilizeEffectSkin_parts/leave" name="" centerPoint3DX="-32.5" centerPoint3DY="-41.85">
+                  <matrix>
+                    <Matrix a="0.471572875976563" b="0.809066772460938" c="-0.809066772460938" d="0.471572875976563" tx="-21.3" ty="-45.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.1" y="13.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="74" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/fertilizeEffectSkin_parts/leave" name="" centerPoint3DX="-34.45" centerPoint3DY="-105.75">
+                  <matrix>
+                    <Matrix a="0.234344482421875" b="-0.236297607421875" c="0.236297607421875" d="0.234344482421875" tx="-35.2" ty="-109.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.1" y="13.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="75" duration="9" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="leave" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="15" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="15" duration="11" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/fertilizeEffectSkin_parts/leave" name="" centerPoint3DX="0.95" centerPoint3DY="-48.45">
+                  <matrix>
+                    <Matrix a="-0.176406860351563" b="0.038360595703125" c="-0.038360595703125" d="-0.176406860351563" tx="0.15" ty="-46.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05" y="13.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="26" duration="43" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/fertilizeEffectSkin_parts/leave" name="" centerPoint3DX="-1.05" centerPoint3DY="-67.1">
+                  <matrix>
+                    <Matrix a="-1.18582153320313" b="0.257858276367188" c="-0.257858276367188" d="-1.18582153320313" tx="0.85" ty="-51.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.15" y="13.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="69" duration="12" tweenType="motion" motionTweenRotate="counter-clockwise" motionTweenRotateTimes="1" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/fertilizeEffectSkin_parts/leave" name="" centerPoint3DX="-1.05" centerPoint3DY="-67.1">
+                  <matrix>
+                    <Matrix a="-1.18582153320313" b="0.257858276367188" c="-0.257858276367188" d="-1.18582153320313" tx="0.85" ty="-51.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.15" y="13.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="81" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/fertilizeEffectSkin_parts/leave" name="" centerPoint3DX="-1.05" centerPoint3DY="-176.15">
+                  <matrix>
+                    <Matrix a="-0.558609008789063" b="0.121475219726563" c="-0.121475219726563" d="-0.558609008789063" tx="-0.85" ty="-168.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.15" y="13.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="82" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="leave" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="4" duration="11" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/fertilizeEffectSkin_parts/leave" name="" selected="true" centerPoint3DX="18.85" centerPoint3DY="-16.3">
+                  <matrix>
+                    <Matrix a="-0.097900390625" b="0.180953979492188" c="-0.180953979492188" d="-0.097900390625" tx="20.6" ty="-14.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.3" y="13.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" duration="39" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/fertilizeEffectSkin_parts/leave" name="" centerPoint3DX="4.45" centerPoint3DY="-24.7">
+                  <matrix>
+                    <Matrix a="-0.445648193359375" b="0.823638916015625" c="-0.823638916015625" d="-0.445648193359375" tx="14.55" ty="-17.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.15" y="13.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="54" duration="12" tweenType="motion" motionTweenRotate="counter-clockwise" motionTweenRotateTimes="1" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/fertilizeEffectSkin_parts/leave" name="" centerPoint3DX="4.45" centerPoint3DY="-24.7">
+                  <matrix>
+                    <Matrix a="-0.445648193359375" b="0.823638916015625" c="-0.823638916015625" d="-0.445648193359375" tx="14.55" ty="-17.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.15" y="13.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="66" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/fertilizeEffectSkin_parts/leave" name="" centerPoint3DX="4.8" centerPoint3DY="-124.05">
+                  <matrix>
+                    <Matrix a="-0.4658203125" b="-0.252044677734375" c="0.252044677734375" d="-0.4658203125" tx="0.4" ty="-118.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.25" y="13.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="67" duration="17" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="circle" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="29" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="29" duration="7" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="shapes/circle" name="" centerPoint3DX="-29.75" centerPoint3DY="-76.25">
+                  <matrix>
+                    <Matrix a="0.0694122314453125" d="0.0694122314453125" tx="-29.75" ty="-76.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="36" duration="30" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="shapes/circle" name="" centerPoint3DX="-28.9" centerPoint3DY="-77.95">
+                  <matrix>
+                    <Matrix a="0.3800048828125" d="0.3800048828125" tx="-28.9" ty="-77.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="66" duration="12" tweenType="motion" motionTweenRotate="clockwise" motionTweenRotateTimes="1" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="shapes/circle" name="" centerPoint3DX="-28.9" centerPoint3DY="-77.95">
+                  <matrix>
+                    <Matrix a="0.3800048828125" d="0.3800048828125" tx="-28.9" ty="-77.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="78" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="shapes/circle" name="" centerPoint3DX="-28.9" centerPoint3DY="-165">
+                  <matrix>
+                    <Matrix a="0.245101928710938" d="0.245101928710938" tx="-28.9" ty="-165"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="79" duration="5" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="leave" color="#808080" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="11" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="11" duration="15" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/fertilizeEffectSkin_parts/leave" name="" centerPoint3DX="29.5" centerPoint3DY="-31">
+                  <matrix>
+                    <Matrix a="-0.169479370117188" b="-0.122940063476563" c="0.122940063476563" d="-0.169479370117188" tx="27.05" ty="-29.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.35" y="13.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="26" duration="25" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/fertilizeEffectSkin_parts/leave" name="" centerPoint3DX="51.8" centerPoint3DY="-54.3">
+                  <matrix>
+                    <Matrix a="-1.33465576171875" b="-0.968170166015625" c="0.968170166015625" d="-1.33465576171875" tx="38.15" ty="-37.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05" y="13.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="51" duration="12" tweenType="motion" motionTweenRotate="clockwise" motionTweenRotateTimes="1" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/fertilizeEffectSkin_parts/leave" name="" centerPoint3DX="51.8" centerPoint3DY="-54.3">
+                  <matrix>
+                    <Matrix a="-1.33465576171875" b="-0.968170166015625" c="0.968170166015625" d="-1.33465576171875" tx="38.15" ty="-37.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05" y="13.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="63" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/fertilizeEffectSkin_parts/leave" name="" centerPoint3DX="51.75" centerPoint3DY="-143.1">
+                  <matrix>
+                    <Matrix a="-0.312911987304688" b="0.431350708007813" c="-0.431350708007813" d="-0.312911987304688" tx="56.5" ty="-138"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05" y="13.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="64" duration="20" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="leave" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="45" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="45" duration="9" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/fertilizeEffectSkin_parts/leave" name="" centerPoint3DX="21.9" centerPoint3DY="-20.75">
+                  <matrix>
+                    <Matrix a="-0.983383178710938" b="-0.241897583007813" c="0.719253540039063" d="-1.15731811523438" tx="12.35" ty="-6.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="13.05"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="54" duration="13" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/fertilizeEffectSkin_parts/leave" name="" centerPoint3DX="21.9" centerPoint3DY="-20.75">
+                  <matrix>
+                    <Matrix a="-0.983383178710938" b="-0.241897583007813" c="0.719253540039063" d="-1.15731811523438" tx="12.35" ty="-6.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="13.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="67" duration="12" tweenType="motion" motionTweenRotate="counter-clockwise" motionTweenRotateTimes="1" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/fertilizeEffectSkin_parts/leave" name="" centerPoint3DX="21.9" centerPoint3DY="-20.75">
+                  <matrix>
+                    <Matrix a="-0.983383178710938" b="-0.241897583007813" c="0.719253540039063" d="-1.15731811523438" tx="12.35" ty="-6.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="13"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="79" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/fertilizeEffectSkin_parts/leave" name="" centerPoint3DX="21.05" centerPoint3DY="-169.65">
+                  <matrix>
+                    <Matrix a="0.108169555664063" b="-0.439727783203125" c="0.517501831054688" d="0.321624755859375" tx="15.05" ty="-174.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.3" y="13.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="80" duration="4" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="leave" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="45" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="45" duration="9" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/fertilizeEffectSkin_parts/leave" name="" centerPoint3DX="24.3" centerPoint3DY="-45.7">
+                  <matrix>
+                    <Matrix a="-1.134521484375" b="0.999740600585938" c="-0.85162353515625" d="-0.421478271484375" tx="34.15" ty="-32.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.1" y="13.4"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="54" duration="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/fertilizeEffectSkin_parts/leave" name="" centerPoint3DX="24.3" centerPoint3DY="-45.7">
+                  <matrix>
+                    <Matrix a="-1.134521484375" b="0.999740600585938" c="-0.85162353515625" d="-0.421478271484375" tx="34.15" ty="-32.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.1" y="13.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="63" duration="12" tweenType="motion" motionTweenRotate="clockwise" motionTweenRotateTimes="1" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/fertilizeEffectSkin_parts/leave" name="" centerPoint3DX="24.3" centerPoint3DY="-45.7">
+                  <matrix>
+                    <Matrix a="-1.134521484375" b="0.999740600585938" c="-0.85162353515625" d="-0.421478271484375" tx="34.15" ty="-32.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.1" y="13.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="75" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/fertilizeEffectSkin_parts/leave" name="" centerPoint3DX="15.25" centerPoint3DY="-134.6">
+                  <matrix>
+                    <Matrix a="0.4688720703125" b="0.532089233398438" c="-0.197677612304688" d="0.3994140625" tx="25.55" ty="-138.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05" y="13.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="76" duration="8" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="leave" color="#808080" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="45" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="45" duration="9" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/fertilizeEffectSkin_parts/leave" name="" centerPoint3DX="-19.65" centerPoint3DY="-52.75">
+                  <matrix>
+                    <Matrix a="-1.17356872558594" b="0.400039672851563" c="-0.70989990234375" d="-0.63153076171875" tx="-9.85" ty="-42.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="13.2"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="54" duration="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/fertilizeEffectSkin_parts/leave" name="" centerPoint3DX="-19.65" centerPoint3DY="-52.75">
+                  <matrix>
+                    <Matrix a="-1.17356872558594" b="0.400039672851563" c="-0.70989990234375" d="-0.63153076171875" tx="-9.85" ty="-42.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="13.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="57" duration="12" tweenType="motion" motionTweenRotate="counter-clockwise" motionTweenRotateTimes="1" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/fertilizeEffectSkin_parts/leave" name="" centerPoint3DX="-19.65" centerPoint3DY="-52.75">
+                  <matrix>
+                    <Matrix a="-1.17356872558594" b="0.400039672851563" c="-0.70989990234375" d="-0.63153076171875" tx="-9.85" ty="-42.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="13.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="69" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/fertilizeEffectSkin_parts/leave" name="" centerPoint3DX="-20.15" centerPoint3DY="-123.05">
+                  <matrix>
+                    <Matrix a="0.036376953125" b="0.544326782226563" c="-0.3492431640625" d="0.22979736328125" tx="-13.65" ty="-125.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.1" y="13.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="70" duration="14" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="leave" color="#4F80FF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="45" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="45" duration="9" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/fertilizeEffectSkin_parts/leave" name="" centerPoint3DX="-36.05" centerPoint3DY="-63.95">
+                  <matrix>
+                    <Matrix a="0.577896118164063" b="-0.0536346435546875" c="0.0005645751953125" d="0.481170654296875" tx="-34.9" ty="-74.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="13.1"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="54" duration="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/fertilizeEffectSkin_parts/leave" name="" centerPoint3DX="-36.05" centerPoint3DY="-63.95">
+                  <matrix>
+                    <Matrix a="0.577896118164063" b="-0.0536346435546875" c="0.0005645751953125" d="0.481170654296875" tx="-34.9" ty="-74.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="13.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="61" duration="12" tweenType="motion" motionTweenRotate="clockwise" motionTweenRotateTimes="1" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/fertilizeEffectSkin_parts/leave" name="" centerPoint3DX="-36.05" centerPoint3DY="-63.95">
+                  <matrix>
+                    <Matrix a="0.577896118164063" b="-0.0536346435546875" c="0.0005645751953125" d="0.481170654296875" tx="-34.9" ty="-74.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="13.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="73" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/fertilizeEffectSkin_parts/leave" name="" centerPoint3DX="-31.2" centerPoint3DY="-170.5">
+                  <matrix>
+                    <Matrix a="0.0477142333984375" b="-0.2791748046875" c="0.226882934570313" d="0.060516357421875" tx="-37.9" ty="-173.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="13.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="74" duration="10" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="leave" color="#FF4F4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="45" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="45" duration="9" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/fertilizeEffectSkin_parts/leave" name="" centerPoint3DX="-31.7" centerPoint3DY="-53.1">
+                  <matrix>
+                    <Matrix a="0.5633544921875" b="-0.398895263671875" c="0.469635009765625" d="0.811264038085938" tx="-38.8" ty="-67.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.3" y="13.2"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="54" duration="14" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/fertilizeEffectSkin_parts/leave" name="" centerPoint3DX="-31.7" centerPoint3DY="-53.1">
+                  <matrix>
+                    <Matrix a="0.5633544921875" b="-0.398895263671875" c="0.469635009765625" d="0.811264038085938" tx="-38.8" ty="-67.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.3" y="13.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="68" duration="12" tweenType="motion" motionTweenRotate="counter-clockwise" motionTweenRotateTimes="1" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/fertilizeEffectSkin_parts/leave" name="" centerPoint3DX="-31.7" centerPoint3DY="-53.1">
+                  <matrix>
+                    <Matrix a="0.5633544921875" b="-0.398895263671875" c="0.469635009765625" d="0.811264038085938" tx="-38.8" ty="-67.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.3" y="13.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="80" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/fertilizeEffectSkin_parts/leave" name="" centerPoint3DX="-36.1" centerPoint3DY="-194.65">
+                  <matrix>
+                    <Matrix a="0.220550537109375" b="0.183074951171875" c="-0.274917602539063" d="0.275558471679688" tx="-28.9" ty="-200.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.2" y="13.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="81" duration="3" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="leave" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="45" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="45" duration="9" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/fertilizeEffectSkin_parts/leave" name="" centerPoint3DX="-0.65" centerPoint3DY="-47.4">
+                  <matrix>
+                    <Matrix a="-1.18017578125" b="0.80389404296875" c="-2.6199951171875" d="-0.413497924804688" tx="38.65" ty="-40.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.35" y="13.6"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="54" duration="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/fertilizeEffectSkin_parts/leave" name="" centerPoint3DX="-0.65" centerPoint3DY="-47.4">
+                  <matrix>
+                    <Matrix a="-1.18017578125" b="0.80389404296875" c="-2.6199951171875" d="-0.413497924804688" tx="38.65" ty="-40.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.35" y="13.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="62" duration="12" tweenType="motion" motionTweenRotate="counter-clockwise" motionTweenRotateTimes="1" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/fertilizeEffectSkin_parts/leave" name="" centerPoint3DX="-0.65" centerPoint3DY="-47.4">
+                  <matrix>
+                    <Matrix a="-1.18017578125" b="0.80389404296875" c="-2.6199951171875" d="-0.413497924804688" tx="38.65" ty="-40.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.35" y="13.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="74" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/fertilizeEffectSkin_parts/leave" name="" centerPoint3DX="5.2" centerPoint3DY="-153.2">
+                  <matrix>
+                    <Matrix a="-0.169403076171875" b="-0.484817504882813" c="0.387527465820313" d="-0.871673583984375" tx="-1.55" ty="-137.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.5" y="13.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="75" duration="9" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="leave" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="45" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="45" duration="9" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/fertilizeEffectSkin_parts/leave" name="" centerPoint3DX="32.25" centerPoint3DY="-23.6">
+                  <matrix>
+                    <Matrix a="-1.61863708496094" b="0.831207275390625" c="0.223129272460938" d="-1.41378784179688" tx="28.35" ty="-5.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.15" y="13.15"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="54" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/fertilizeEffectSkin_parts/leave" name="" centerPoint3DX="32.25" centerPoint3DY="-23.6">
+                  <matrix>
+                    <Matrix a="-1.61863708496094" b="0.831207275390625" c="0.223129272460938" d="-1.41378784179688" tx="28.35" ty="-5.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.15" y="13.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="55" duration="12" tweenType="motion" motionTweenRotate="clockwise" motionTweenRotateTimes="1" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/fertilizeEffectSkin_parts/leave" name="" centerPoint3DX="32.25" centerPoint3DY="-23.6">
+                  <matrix>
+                    <Matrix a="-1.61863708496094" b="0.831207275390625" c="0.223129272460938" d="-1.41378784179688" tx="28.35" ty="-5.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.15" y="13.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="67" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/fertilizeEffectSkin_parts/leave" name="" centerPoint3DX="32.25" centerPoint3DY="-91.5">
+                  <matrix>
+                    <Matrix a="-0.620468139648438" b="0.318634033203125" c="0.0855255126953125" d="-0.541946411132813" tx="30.4" ty="-84.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05" y="13.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="68" duration="16" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="leave" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="45" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="45" duration="9" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/fertilizeEffectSkin_parts/leave" name="" centerPoint3DX="2.35" centerPoint3DY="-6.1">
+                  <matrix>
+                    <Matrix a="-0.437454223632813" b="1.59466552734375" c="-1.78762817382813" d="0.310211181640625" tx="28.55" ty="-8.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.45" y="12.95"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="54" duration="12" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/fertilizeEffectSkin_parts/leave" name="" centerPoint3DX="2.35" centerPoint3DY="-6.1">
+                  <matrix>
+                    <Matrix a="-0.437454223632813" b="1.59466552734375" c="-1.78762817382813" d="0.310211181640625" tx="28.55" ty="-8.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.45" y="12.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="66" duration="12" tweenType="motion" motionTweenRotate="clockwise" motionTweenRotateTimes="1" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/fertilizeEffectSkin_parts/leave" name="" centerPoint3DX="2.35" centerPoint3DY="-6.1">
+                  <matrix>
+                    <Matrix a="-0.437454223632813" b="1.59466552734375" c="-1.78762817382813" d="0.310211181640625" tx="28.55" ty="-8.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.45" y="12.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="78" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/fertilizeEffectSkin_parts/leave" name="" centerPoint3DX="2.35" centerPoint3DY="-107.3">
+                  <matrix>
+                    <Matrix a="-0.135879516601563" b="0.495315551757813" c="-0.555252075195313" d="0.0963592529296875" tx="12.45" ty="-106.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.3" y="13"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="79" duration="5" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="pouse" color="#4F80FF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="54" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/fertilizeEffectSkin_parts/pouse" name="" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="-39.25" ty="-76.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="40.1" y="38"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="54" duration="9" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/fertilizeEffectSkin_parts/pouse" name="" symbolType="graphic" firstFrame="29" loop="play once">
+                  <matrix>
+                    <Matrix tx="-39.25" ty="-76.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="40.1" y="38"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.55078125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="63" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/fertilizeEffectSkin_parts/pouse" name="" symbolType="graphic" firstFrame="29" loop="play once">
+                  <matrix>
+                    <Matrix tx="-39.25" ty="-76.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="40.1" y="38"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="64" duration="20" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

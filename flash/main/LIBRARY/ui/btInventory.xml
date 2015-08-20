@@ -1,0 +1,46 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="ui/btInventory" itemID="4f42c9eb-0000025a" sourceLibraryItemHRef="Symbol 1" symbolType="button" lastModified="1329777213">
+  <timeline>
+    <DOMTimeline name="btInventory">
+      <layers>
+        <DOMLayer name="Bag" color="#FF800A" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="ui/Bag" name="" centerPoint3DX="20" centerPoint3DY="20">
+                  <matrix>
+                    <Matrix a="0.246444702148438" d="0.246444702148438" tx="5.7" ty="1.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="58" y="73.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Square" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="shapes/Square" name="" centerPoint3DX="20" centerPoint3DY="20">
+                  <matrix>
+                    <Matrix a="0.200042724609375" d="0.199996948242188"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="100" y="100"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

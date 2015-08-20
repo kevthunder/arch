@@ -1,0 +1,31 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="ui/x" itemID="4f39a624-00000269" sourceLibraryItemHRef="Symbol 1" lastModified="1353371658">
+  <timeline>
+    <DOMTimeline name="x">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-450.3" ty="-44.1"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FF0000"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!9306 882[9323 882 9334 894!9334 894[9346 905 9346 922!9346 922[9346 939 9334 951!9334 951|9233 1052!9233 1052|9335 1154!9335 1154[9346 1165 9346 1182!9346 1182[9346 1199 9335 1211!9335 1211[9323 1222 9306 1222!9306 1222[9289 1222 9278
+ 1211!9278 1211|9176 1109!9176 1109|9074 1211!9074 1211[9063 1222 9046 1222!9046 1222[9029 1222 9017 1211!9017 1211[9006 1199 9006 1182!9006 1182[9006 1165 9017 1154!9017 1154|9119 1052!9119 1052|9018 951!9018 951[9006 939 9006 922!9006
+ 922[9006 905 9018 894!9018 894[9029 882 9046 882!9046 882[9063 882 9075 894!9075 894|9176 995!9176 995|9277 894!9277 894[9289 882 9306 882"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

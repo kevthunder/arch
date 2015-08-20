@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="skins/TreeSkin2" itemID="4f0b89b8-0000023a" linkageExportForAS="true" linkageExportInFirstFrame="false" linkageBaseClass="ViewSideSkin" linkageClassName="Tree2" sourceLibraryItemHRef="Symbol 1" lastModified="1326156712" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="TreeSkin2">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/Tree2" name="" centerPoint3DX="-0.95" centerPoint3DY="-43.95">
+                  <matrix>
+                    <Matrix a="0.160888671875" d="0.160888671875" tx="-37" ty="-95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="224.05" y="317.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,41 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="skins/light" itemID="4fb2ee32-0000035e" sourceLibraryItemHRef="Symbol 1" lastModified="1337126450">
+  <timeline>
+    <DOMTimeline name="light">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="350" ty="-304"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.21282958984375" d="0.21282958984375" tx="-350" ty="304"/>
+                        </matrix>
+                        <GradientEntry color="#FFFF66" ratio="0"/>
+                        <GradientEntry color="#FFFF66" alpha="0.87843137254902" ratio="0.0588235294117647"/>
+                        <GradientEntry color="#FFFF66" alpha="0.611764705882353" ratio="0.196078431372549"/>
+                        <GradientEntry color="#FFFF66" alpha="0.349019607843137" ratio="0.36078431372549"/>
+                        <GradientEntry color="#FFFF66" alpha="0.172549019607843" ratio="0.552941176470588"/>
+                        <GradientEntry color="#FFFF66" alpha="0.0705882352941176" ratio="0.776470588235294"/>
+                        <GradientEntry color="#FFFF66" alpha="0" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-3560 6080[-3560 7505 -4568 8512!-4568 8512[-5575 9520 -7000 9520!-7000 9520[-8425 9520 -9433 8512!-9433 8512[-10440 7505 -10440 6080!-10440 6080[-10440 4655 -9433 3647!-9433 3647[-8425 2640 -7000 2640!-7000 2640[-5575 2640 -4568 3647
+!-4568 3647[-3560 4655 -3560 6080"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

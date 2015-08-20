@@ -1,0 +1,89 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="ui/loginLoading" itemID="4e1b7c9e-0000020f" sourceLibraryItemHRef="Symbol 1" lastModified="1317605787" lastUniqueIdentifier="5">
+  <timeline>
+    <DOMTimeline name="loginLoading">
+      <layers>
+        <DOMLayer name="Square" color="#4FFFFF" locked="true" outline="true" useOutlineView="true" autoNamed="false" layerType="mask">
+          <frames>
+            <DOMFrame index="0" duration="100" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="shapes/Square" name="" selected="true" centerPoint3DX="163.9" centerPoint3DY="14.55">
+                  <matrix>
+                    <Matrix a="1.64010620117188" d="0.145263671875" tx="-0.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="100" y="100.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="loginLoadingPart" color="#9933CC" parentLayerIndex="0" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="28" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="ui/loginLoadingPart" name="" centerPoint3DX="319.7" centerPoint3DY="14.5">
+                  <matrix>
+                    <Matrix tx="296.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="23.65" y="14.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="28" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="ui/loginLoadingPart" name="" centerPoint3DX="352.2" centerPoint3DY="14.5">
+                  <matrix>
+                    <Matrix tx="328.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="23.65" y="14.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="29" duration="70" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="ui/loginLoadingPart" name="" selected="true" centerPoint3DX="-24.65" centerPoint3DY="14.5">
+                  <matrix>
+                    <Matrix tx="-48.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="23.65" y="14.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="99" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="ui/loginLoadingPart" name="" centerPoint3DX="319.7" centerPoint3DY="14.5">
+                  <matrix>
+                    <Matrix tx="296.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="23.65" y="14.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="loginLoadingBg" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="100" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="ui/loginLoadingBg" name="" centerPoint3DX="164" centerPoint3DY="14.5">
+                  <transformationPoint>
+                    <Point x="164" y="14.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

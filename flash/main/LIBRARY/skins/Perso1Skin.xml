@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="skins/Perso1Skin" itemID="4ec30d3b-000003a9" linkageExportForAS="true" linkageBaseClass="PersoSkin" linkageClassName="Perso1Skin" sourceLibraryItemHRef="Symbol 1" lastModified="1354065112" lastUniqueIdentifier="3">
+  <timeline>
+    <DOMTimeline name="Perso1Skin">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="skins/Perso1Skin_parts/perso1" name="model" selected="true" centerPoint3DX="4.5" centerPoint3DY="-26.5">
+                  <matrix>
+                    <Matrix a="0.0999908447265625" d="0.0999908447265625" tx="-3.25" ty="-54.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

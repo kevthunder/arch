@@ -1,0 +1,31 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="skins/tile" itemID="4ddad4f8-000001dc" linkageExportForAS="true" linkageBaseClass="Skin" linkageClassName="TileSkin" sourceLibraryItemHRef="Symbol 1" lastModified="1363307689" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="tile">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <transformationPoint>
+                    <Point y="17.7"/>
+                  </transformationPoint>
+                  <members>
+                    <DOMSymbolInstance libraryItemName="skins/TileGround" name="ground" selected="true" centerPoint3DY="17.7">
+                      <matrix>
+                        <Matrix a="1.41421508789063" b="0.70709228515625" c="-1.4141845703125" d="0.707107543945313"/>
+                      </matrix>
+                      <transformationPoint>
+                        <Point x="12.5" y="12.5"/>
+                      </transformationPoint>
+                    </DOMSymbolInstance>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

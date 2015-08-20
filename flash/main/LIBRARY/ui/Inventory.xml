@@ -1,0 +1,100 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="ui/Inventory" itemID="4f39a59a-00000263" linkageExportForAS="true" linkageExportInFirstFrame="false" linkageClassName="Inventory" sourceLibraryItemHRef="Symbol 1" lastModified="1329181110" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="Inventory">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-43" ty="-37"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!10600 6959|860 6959!860 6959|860 740!860 740|10600 740!10600 740|10600 6959"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="ui/x" name="btClose" centerPoint3DX="471" centerPoint3DY="15.9">
+                  <matrix>
+                    <Matrix tx="462.5" ty="7.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="8.5" y="8.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMComponentInstance libraryItemName="CustomList" name="list" selected="true" centerPoint3DX="57.35" centerPoint3DY="81.4" uniqueID="2">
+                  <matrix>
+                    <Matrix a="4.739990234375" d="2.72000122070313" tx="6.9" ty="31.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="50.1" y="50"/>
+                  </transformationPoint>
+                  <dataBindingXML><![CDATA[<component metaDataFetched='true' schemaUrl='' schemaOperation='' sceneRootLabel='TileCrackedBackstoneSkin' oldCopiedComponentPath=''>
+</component>
+]]></dataBindingXML>
+                  <parametersAsXML><![CDATA[   <property id="allowMultipleSelection">
+      <Inspectable name="allowMultipleSelection" variable="allowMultipleSelection" category="" verbose="0" defaultValue="false" type="Boolean"/>
+   </property>
+   <property id="dataProvider">
+      <Inspectable name="dataProvider" variable="dataProvider" category="" verbose="0" defaultValue="fl.data.DataProvider, fl.data.SimpleCollectionItem, item, 0, 0" type="Collection"/>
+   </property>
+   <property id="enabled">
+      <Inspectable name="enabled" variable="enabled" category="" verbose="1" defaultValue="true" type="Boolean"/>
+   </property>
+   <property id="horizontalDirection">
+      <Inspectable name="horizontalDirection" variable="horizontalDirection" category="" verbose="0" defaultValue="left to right" enumeration="left to right,right to left" type="List"/>
+   </property>
+   <property id="horizontalLineScrollSize">
+      <Inspectable name="horizontalLineScrollSize" variable="horizontalLineScrollSize" category="" verbose="0" defaultValue="4" type="Number"/>
+   </property>
+   <property id="horizontalPageScrollSize">
+      <Inspectable name="horizontalPageScrollSize" variable="horizontalPageScrollSize" category="" verbose="0" defaultValue="0" type="Number"/>
+   </property>
+   <property id="horizontalScrollPolicy">
+      <Inspectable name="horizontalScrollPolicy" variable="horizontalScrollPolicy" category="" verbose="0" defaultValue="auto" enumeration="on,off,auto" type="List"/>
+   </property>
+   <property id="mainDirection">
+      <Inspectable name="mainDirection" variable="mainDirection" category="" verbose="0" defaultValue="horizontal" enumeration="horizontal,vertical" type="List"/>
+   </property>
+   <property id="maxCellHeight">
+      <Inspectable name="maxCellHeight" variable="maxCellHeight" category="" verbose="0" defaultValue="4096" type="Number"/>
+   </property>
+   <property id="maxCellWidth">
+      <Inspectable name="maxCellWidth" variable="maxCellWidth" category="" verbose="0" defaultValue="4096" type="Number"/>
+   </property>
+   <property id="minCellHeight">
+      <Inspectable name="minCellHeight" variable="minCellHeight" category="" verbose="0" defaultValue="1" type="Number"/>
+   </property>
+   <property id="minCellWidth">
+      <Inspectable name="minCellWidth" variable="minCellWidth" category="" verbose="0" defaultValue="1" type="Number"/>
+   </property>
+   <property id="verticalDirection">
+      <Inspectable name="verticalDirection" variable="verticalDirection" category="" verbose="0" defaultValue="top to bottom" enumeration="top to bottom,bottom to top" type="List"/>
+   </property>
+   <property id="verticalLineScrollSize">
+      <Inspectable name="verticalLineScrollSize" variable="verticalLineScrollSize" category="" verbose="0" defaultValue="4" type="Number"/>
+   </property>
+   <property id="verticalPageScrollSize">
+      <Inspectable name="verticalPageScrollSize" variable="verticalPageScrollSize" category="" verbose="0" defaultValue="0" type="Number"/>
+   </property>
+   <property id="verticalScrollPolicy">
+      <Inspectable name="verticalScrollPolicy" variable="verticalScrollPolicy" category="" verbose="0" defaultValue="auto" enumeration="on,off,auto" type="List"/>
+   </property>
+   <property id="visible">
+      <Inspectable name="visible" variable="visible" category="" verbose="1" defaultValue="true" type="Boolean"/>
+   </property>
+]]></parametersAsXML>
+                </DOMComponentInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

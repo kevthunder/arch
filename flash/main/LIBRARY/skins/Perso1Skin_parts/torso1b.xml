@@ -1,0 +1,50 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="skins/Perso1Skin_parts/torso1b" itemID="4ec2ef9d-0000028c" sourceLibraryItemHRef="Symbol 1" lastModified="1321398173">
+  <timeline>
+    <DOMTimeline name="torso1b">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-18.15" ty="0.85"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#A67224"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!1346 774[1324 846 1260 1000!1260 1000[1097 816 747 616!747 616[#6F.A4 #FB.5D 527 95.5!527 95.5|943 335!943 335|1361 376!1361 376[#5C9.6C #1E5.A3 1346 774"/>
+                    <Edge cubics="!967 10(967,10;1101,46 1206,97 1282,164q967 10Q1168 64q1282 164);"/>
+                    <Edge cubics="!747 616(747,616;984,752 1156,882 1260,1000q747 616Q1097 816q1260 1000);"/>
+                    <Edge cubics="!747 616(;323,373 250,200 527,96q747 616Q112 251q527 96);"/>
+                    <Edge cubics="!527 96(;557,85 591,74 627,65q527 96 627 65);"/>
+                    <Edge cubics="!627 65(;719,41 832,23 967,10q627 65Q762 31q967 10);"/>
+                    <Edge cubics="!1282 164(;1327,203 1375,274 1425,374q1282 164Q1348 222q1425 374);"/>
+                    <Edge cubics="!1425 374(;1464,452 1503,542 1544,648q1425 374Q1481 486q1544 648);"/>
+                    <Edge cubics="!1544 648(1544,648;1397,780 1303,897 1260,1000q1544 648Q1324 846q1260 1000)1260,1000;"/>
+                  </edges>
+                </DOMShape>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-18.15" ty="0.85"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#694D22"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!1338 516[858 489 406 270!406 270[381 54 549 -17!549 -17[551 147 1397 252!1397 252[#58C.42 #1A2.E8 1338 516"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

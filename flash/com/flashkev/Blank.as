@@ -1,0 +1,22 @@
+﻿package com.flashkev {
+	public class Blank {
+		//////////// variables ////////////
+		
+		//////////// Static variables ////////////
+		
+		//////////// Constructor ////////////
+        public function Blank() {
+        }
+		
+		//////////// Properties functions ////////////
+		
+		//////////// Static functions ////////////
+		
+		//////////// Public functions ////////////
+		
+		//////////// Private functions ////////////
+		
+		//////////// Event Handlers functions ////////////
+		
+	}
+}
